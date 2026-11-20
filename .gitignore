@@ -1,0 +1,7 @@
+# macOS-Finder-Metadaten
+.DS_Store
+._*
+
+# Editor-/OS-Kram
+*.swp
+Thumbs.db
